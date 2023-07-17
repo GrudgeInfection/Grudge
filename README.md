@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingrudge&label=Profile%20views&color=0e75b6&style=flat" alt="kevingrudge" /> </p>
 
-- Hello everyone [Grudge](link)
+- A GUI app to easily communicate with the RAT [Grudge GUI](https://github.com/KevinGrudge/Grudge-RAT-GUI)
 
-- Hiiii [Grudge2](link2)
-![Screenshot_2023-07-17-11-57-29-45_572064f74bd5f9fa804b05334aa4f912](https://github.com/KevinGrudge/Grudge/assets/139581967/f79bb845-2bd6-40f6-9d42-56fb94324ea1)
+- Feel free to ask me about projects or help at: **kevinemadd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
