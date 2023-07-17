@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingrudge&label=Profile%20views&color=0e75b6&style=flat" alt="kevingrudge" /> </p>
 
+- Hello everyone [Grudge](link)
+
+- Hiiii [Grudge2](link2)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
