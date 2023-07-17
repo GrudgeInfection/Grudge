@@ -6,6 +6,7 @@
 - Hello everyone [Grudge](link)
 
 - Hiiii [Grudge2](link2)
+![Screenshot_2023-07-17-11-57-29-45_572064f74bd5f9fa804b05334aa4f912](https://github.com/KevinGrudge/Grudge/assets/139581967/f79bb845-2bd6-40f6-9d42-56fb94324ea1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
