@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevingrudge&label=Profile%20views&color=0e75b6&style=flat" alt="kevingrudge" /> </p>
 
-- A GUI app to easily communicate with the RAT [Grudge GUI](https://github.com/KevinGrudge/Grudge-RAT-GUI)
+- A GUI app to easily communicate with the RAT [Grudge](https://github.com/KevinGrudge/Grudge-RAT-GUI)
 
 - Feel free to ask me about projects or help at: **kevinemadd@gmail.com**
 
